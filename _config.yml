@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Brian Bogue Jimenez # your name (or website title) here
+logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Computer Vision Engineer for Optical Imaging Research Lab  
   <br><br>
-  Second description 
+  Contact me: 808-224-5780
+  bribogue@gmail.com 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/brian-bogue-jimenez-6b971620a/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
