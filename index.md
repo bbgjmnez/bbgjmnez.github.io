@@ -3,7 +3,7 @@
 ---
 ### Machine Learning & Feature Engineering
 [Comprehensive Tool for a Phase Compensation Application](notele_App_page.md)
-<img src="images/noteleApp/Picture8.png?raw=true"/>
+<img src="images/nicgm/Picture8.png?raw=true"/>
 
 ### Deep Learning
 
