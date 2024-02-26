@@ -10,6 +10,7 @@
 [Comprehensive Tool for a Phase Compensation Application](nicgm.md)
 <img src="images/nicgm/Picture8.png?raw=true"/>
 
+---
 ### Deep Learning
 
 [Diatom Classification via Deep Learning using Raw Holograms](/pdf/SPIE_Photonics_West_DLHM_Diatoms.pdf)
