@@ -4,7 +4,7 @@
 
 ### Deep Learning
 
-[Diatom Classification via Deep Learning using Raw Holograms](/sample_page)
+[Diatom Classification via Deep Learning using Raw Holograms](/pdf/SPIE Photonics West_DLHM_Diatoms.pdf)
 <img src="images/diatoms/Picture2.png?raw=true"/>
 
 ---
