@@ -9,7 +9,7 @@
 
 ---
 ### App Developement
-[Project 2 Title](notele_App_page.md)
+[Comprehensive tool for a phase compensation Application](notele_App_page.md)
 
 ---
 [Project 3 Title](http://example.com/)
