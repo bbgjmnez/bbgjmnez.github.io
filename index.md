@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Deep Learning
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Diatom Classification via Deep Learning using Raw Holograms](/sample_page)
+<img src="images/diatoms/diatoms.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
