@@ -2,7 +2,7 @@
 
 ---
 ### Machine Learning & Feature Engineering
-[Comprehensive Tool for a Phase Compensation Application](notele_App_page.md)
+[Comprehensive Tool for a Phase Compensation Application](nicgm.md)
 <img src="images/nicgm/Picture8.png?raw=true"/>
 
 ### Deep Learning
