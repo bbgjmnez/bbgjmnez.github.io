@@ -8,7 +8,8 @@
 <img src="images/diatoms/Picture2.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### App Developement
+[Project 2 Title](notele_App_page.md)
 
 ---
 [Project 3 Title](http://example.com/)
