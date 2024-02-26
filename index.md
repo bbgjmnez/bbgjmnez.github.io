@@ -5,7 +5,7 @@
 ### Deep Learning
 
 [Diatom Classification via Deep Learning using Raw Holograms](/sample_page)
-<img src="images/diatoms/diatoms.jpg?raw=true"/>
+<img src="images/diatoms/diatoms_summary.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
