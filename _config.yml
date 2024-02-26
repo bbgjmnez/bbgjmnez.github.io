@@ -12,7 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://scholar.google.com/citations?user=M6TFRTsAAAAJ&hl=en">View My GoogleScholar</a> 
   <br><br>
-  <a href="https://sites.google.com/view/oirl/home/">View OIRL's website Profile</a> 
+  <a href="https://sites.google.com/view/oirl/home/">View OIRL's website</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
