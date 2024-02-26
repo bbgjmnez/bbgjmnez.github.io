@@ -9,7 +9,8 @@
 
 ---
 ### App Developement
-[Comprehensive tool for a phase compensation Application](notele_App_page.md)
+[Comprehensive Tool for a Phase Compensation Application](notele_App_page.md)
+<img src="images/noteleApp/Picture3.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
