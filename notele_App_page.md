@@ -4,7 +4,7 @@
 
 ### Links
 
-[PLoS ONE Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291103)
+[PLOS ONE Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291103)
 
 [GitHub Link](https://github.com/bbgjmnez/noteleDHM-Tool)
 
