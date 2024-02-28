@@ -4,6 +4,8 @@ Project Description: Digital Lensless Holographic Microscopy (DLHM) is an imagin
 
 ### Links
 
+[SPIE Link](https://spie.org/photonics-west/presentation/Diatom-classification-via-deep-learning-using-raw-holograms-captured-by/12903-46#_=_)
+
 [Conference Presentation PDF](/pdf/SPIE_Photonics_West_DLHM_Diatoms.pdf)
 
 Citation: B. Bogue-Jimenez, Raúl Castañeda, Carlos Trujillo, Ana Doblas. “Diatom Classification via Deep Learning using Raw Holograms captured by a Lenless Holographic System,” Proc. SPIE 12903, AI and Optical Data Sciences V, 12903-46 (31 January 2024). 
