@@ -4,8 +4,10 @@
 
 ### Links
 
-[Journal Publication](/pdf/sensors-22-03534-with-cover.pdf)
+[MDPI Publication Link](https://www.mdpi.com/1424-8220/22/9/3534)
 
-[Conference Presentation](/pdf/thesisdefense-bbgjmnez-Final.pdf)
+[Journal Publication PDF](/pdf/sensors-22-03534-with-cover.pdf)
+
+[Conference Presentation PDF](/pdf/thesisdefense-bbgjmnez-Final.pdf)
 
 Citation: B. Bogue-Jimenez, X. Huang, D. Powell, A. Doblas. “Selection of Noninvasive Features in Wrist-Based Wearable Sensors to Predict Blood Glucose Concentrations Using Machine Learning Algorithms,” Sensors, 22(9), 3534 (2022); https://doi.org/10.3390/s22093534.
