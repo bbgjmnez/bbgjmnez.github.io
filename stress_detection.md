@@ -7,4 +7,6 @@ Approximately 65% of the worldwide adult population has experienced stress, affe
 
 [MDPI Link](https://www.mdpi.com/1424-8220/23/11/5220)
 
+[GitHub Link](https://github.com/bbgjmnez/2023StressModelHRV)
+
 Citation: Dahal, K.; Bogue-Jimenez, B.; Doblas, A. “Global Stress Detection Framework Combining a Reduced Set of HRV Features and Random Forest Model.” Sensors, 23(11), 5220 (2023). https://doi.org/10.3390/s23115220. 
