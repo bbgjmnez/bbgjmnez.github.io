@@ -22,6 +22,10 @@
 
 <img src="images/diatoms/Picture2.png?raw=true"/>
 
+[Utilization of Deep Learning Methods for Automatic Reconstruction of Quantitative Phase Images in NonTelecentric Digital Holographic Microscopy](DL_auto_notele.md)
+
+<img src="images/Auto_notele.png?raw=true"/>
+
 ---
 ### Imaging Systems
 [Advantages of Fresnel biprism-based digital holographic microscopy](fresnel_biprism.md)
