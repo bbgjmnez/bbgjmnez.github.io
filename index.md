@@ -3,24 +3,29 @@
 ---
 ### App Developement
 [Comprehensive Tool for a Phase Compensation Application](notele_App_page.md)
+
 <img src="images/noteleApp/Picture3.png?raw=true"/>
 
 ---
 ### Machine Learning & Feature Engineering
 [Wearable Sensors to Predict Blood Glucose Concentrations Using Machine Learning Algorithms](nicgm.md)
+
 <img src="images/nicgm/Picture8.png?raw=true"/>
 
 [Global Stress Detection Framework](stress_detection.md)
+
 <img src="images/stress.png?raw=true"/>
 
 ---
 ### Deep Learning
 [Diatom Classification via Deep Learning using Raw Holograms](diatoms.md)
+
 <img src="images/diatoms/Picture2.png?raw=true"/>
 
 ---
 ### Imaging Systems
 [Advantages of Fresnel biprism-based digital holographic microscopy](fresnel_biprism.md)
+
 <img src="images/fresnel.png?raw=true"/>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
