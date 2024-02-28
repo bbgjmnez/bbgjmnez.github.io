@@ -8,7 +8,7 @@
 
 ---
 ### Machine Learning & Feature Engineering
-[Wearable Sensors to Predict Blood Glucose Concentrations Using Machine Learning Algorithms](nicgm.md)
+[Wearable Sensory Platform to Predict Blood Glucose Concentrations using Machine Learning Algorithms](nicgm.md)
 
 <img src="images/nicgm/Picture8.png?raw=true"/>
 
