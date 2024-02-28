@@ -4,11 +4,13 @@
 
 ### Links
 
+[PLoS ONE Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291103)
+
 [GitHub Link](https://github.com/bbgjmnez/noteleDHM-Tool)
 
-[Journal Publication](/pdf//2023-nonteletool-PLoSONE-FINAL.pdf)
+[Journal Publication PDF](/pdf//2023-nonteletool-PLoSONE-FINAL.pdf)
 
-[Conference Presentation](/pdf/SPIE2023-West-DHM-NonTele-Final.pdf)
+[Conference Presentation PDF](/pdf/SPIE2023-West-DHM-NonTele-Final.pdf)
 
 Citation: B. Bogue-Jimenez, C. Trujillo, A. Doblas. “Comprehensive tool for a phase compensation reconstruction method in digital holographic microscopy operation in non-telecentric regime,” PLoS ONE, 18(9), e0291103 (2023); https://doi.org/10.1371/journal.pone.0291103.
 
