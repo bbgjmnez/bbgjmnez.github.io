@@ -4,6 +4,7 @@
 ### App Developement
 [Comprehensive Tool for a Phase Compensation Application](notele_App_page.md)
 <img src="images/noteleApp/Picture3.png?raw=true"/>
+
 ---
 ### Machine Learning & Feature Engineering
 [Selection of Noninvasive Features in Wrist-Based Wearable Sensors to Predict Blood Glucose Concentrations Using Machine Learning Algorithms](nicgm.md)
@@ -11,10 +12,12 @@
 
 [Global Stress Detection Framework Combining a Reduced Set of HRV Features and Random Forest Model](stress_detection.md)
 <img src="images/stress.png?raw=true"/>
+
 ---
 ### Deep Learning
 [Diatom Classification via Deep Learning using Raw Holograms](diatoms.md)
 <img src="images/diatoms/Picture2.png?raw=true"/>
+
 ---
 ### Imaging Systems
 [Advantages of Fresnel biprism-based digital holographic microscopy in quantitative phase imaging](fresnel_biprism.md)
