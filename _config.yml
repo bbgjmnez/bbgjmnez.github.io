@@ -2,7 +2,6 @@ title: Brian Bogue Jimenez # your name (or website title) here
 logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Freelance Software Engineer  
-  <br><br>
   Contact me: 808-224-5780
   bribogue@gmail.com 
   <br><br>
@@ -19,10 +18,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Formerly associated with OIRL: 
   <br><br>
   <a href="https://sites.google.com/view/oirl/home/">View OIRL's website</a> 
-  <br><br>
-  <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
