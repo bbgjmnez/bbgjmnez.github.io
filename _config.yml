@@ -10,8 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="/CV_BrianBogue_2024.pdf">View My Curriculum Vitae (CV)</a>
   <br><br>
-  <br><br>
-  <br><br>
   <a href="https://www.linkedin.com/in/brian-bogue-jimenez-6b971620a/">View My LinkedIn Profile</a> 
   <br><br>
   <a href="https://www.researchgate.net/profile/Brian-Bogue-Jimenez/">View My ResearchGate Profile</a> 
@@ -21,6 +19,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Formerly associated with OIRL: 
   <br><br>
   <a href="https://sites.google.com/view/oirl/home/">View OIRL's website</a> 
+  <br><br>
+  <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
